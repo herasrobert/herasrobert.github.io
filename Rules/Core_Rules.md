@@ -9,6 +9,12 @@
 
 # Playing the Game
 
+## Standard Play
+- The game is split into five rounds.
+- During the first round Player 1 will control each of their units and take a move and/or action.
+- Once Player 1 finishes controlling all their units, Player 2 will control their units.
+- Once Player 2 finishes controlling their units, the round is considered over and the next round starts.
+
 ## Movement
 - Each unit can move a number of tiles equal to its movement speed unless a tile says it’s impassible terrain.
 - A unit can choose not to move and stay within its tile unless the units profile says otherwise.
@@ -18,7 +24,9 @@
 - Possible actions are listed on the units profile.
 
 ### Casting, Magic, and Ranged Attacks
-One such available action is to cast a spell.
+Such available actions are to make a ranged attack or cast a spell.
+In order to make a range attack, ensure that the defending unit is within range of the attacking unit; range is listed within the attacks profile.
+The Attacker then draws a straight line from the closest corner of the tile of Attacking unit to the closest corner of the tile of the defending unit.
 The number of dice to use will be listed on the spell action within the unit profile under 'Attack' 
 In order to “Hit” your target, you roll a number of d6 equal to the Attack value and those that land at or above the attackers "Accurancy” value are considered hits.
 Example: Player 1 is using a Mage Unit to cast a Fireball. The Mage Units Accuracy is 3+ and the Fireball spell is 4 Attacks. This means Player 1 would roll 4d6 and any that land at or above a three are considered to have hit the defending unit.
@@ -40,7 +48,8 @@ Example: The Mage Unit cast Fireball and has 2 hits. Of those two hits, both d6 
 
 The defending unit may choose to take a Cover Roll instead of a Protection Roll; sometimes the Cover Roll is better.
 Any unit can take a cover save of 6+ unless otherwise stated in the unit profile.
-Each terrain tile has a Cover Bonus attribute. Draw a straight line between Attacker and Defender. Cover is calculated by subtracting the highest cover bonus of any tile in the line from 6. The player must then roll above that value.
+Each terrain tile has a Cover Bonus attribute. Draw a straight from the closest corner of the tile of Attacking unit to the closest corner of the tile of the defending unit.
+Cover is calculated by subtracting the highest cover bonus of any tile in the line from 6. The player must then roll above that value.
 Example: Player 1 used their Mage Squad to cast Fireball and because of Fireballs +2 Penetration, the Defending unit unit must suceed on a 4+ to defend against the Fireball attack. However, between the Mage Squad and the Defending unit is a Forest Terrain Tile that grants a +3 Cover Bonus. This means the defending unit can elect to take a Cover Roll intead of a Defense Roll. The Cover Roll result to be beat is 6 - 3 = 3+.
 
 ### Losing Health
@@ -63,3 +72,23 @@ A courage test must be taken after a unit loses health
 The Player who commands the unit must roll 2d6; rolling below the units current health counts as a success and the unit maintains its courage.
 If the 2d6 lands above the units current health, the unit has lost its courage and must spend its next movement moving in a straight line towards controlling players table edge.
 A unit without courage that passed the table edge counts as having fled and is destroyed.
+
+### Reinforcements
+Players are allowed to keep up to half their army in points cost as reinforcements. These units are not deployed during preparation and setup.
+A player may deploy reinforcements any turn after the first but must deploy all reinforcements by the start of the third game turn.
+Reinforcements start on any tile within the players table edge, but some units have special rules regarding how they can be deployed as reinforcements.
+Reinforcements not deployed are counted as destroyed.
+
+## Terrain
+
+### Types
+There are many types of terrain within the game. 
+Most terrain will provide some sort of cover, as denoted by the Cover value on the tile.
+Some terrain counts as impassible and will be denoted on the tile; meaning you cannot place a unit or traverse the tile unless otherwise stated in the units profile.
+Terrain tiles with a Cover of -6 count as blocking sight; the Defending unit will have a 0 on their Cover Roll which is an automatic success.
+
+Tile Types: Grassland, Hills, Forest, Mountain, Ruins, Bushes, Bog, Miasma, Unstable, Lake/Pond
+
+### Capturing Objectives
+Any unit within one tile of an objective is considered to be contesting the objective.
+The player with the most units contesting an objective count as capturing the objective and earns two points at the end of each round.
