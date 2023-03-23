@@ -1,6 +1,6 @@
 # Dire Wolf Pack - 15 pts
 
-|Movement | Accuracy | Defence | HP | Moral |
+|Movement | Accuracy | Defence | HP | Courage |
 | ------ | ------ | ------ | ------ | ------ |
 | 5 Tiles | 3+ | 5+ | 18 | 8 |
 
