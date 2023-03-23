@@ -123,7 +123,9 @@ Some terrain counts as impassible and will be denoted on the tile; meaning you c
 
 Terrain tiles with a Cover of -6 count as blocking sight; the Defending unit will have a 0 on their Cover Roll which is an automatic success.
 
-Tile Types: Grassland, Hills, Forest, Mountain, Ruins, Bushes, Bog, Miasma, Unstable, Lake/Pond
+Some terrain adds an elevation to units that are on the tile. This adds a modifier to the accuracy of teh attacking unit if the defending unit is at a lower elevation.
+
+Tile Types: Grassland, Hills, Forest, Mountain, Ruins, Bushes, Bog, Miasma, Impassible, Lake
 
 ### Capturing Objectives
 Any unit within one tile of an objective is considered to be contesting the objective.
