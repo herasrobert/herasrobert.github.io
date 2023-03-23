@@ -1,6 +1,6 @@
 # Elementalist  - 15 pts
 
-|Movement | Accuracy | Defence | HP | Moral |
+|Movement | Accuracy | Defence | HP | Courage |
 | ------ | ------ | ------ | ------ | ------ |
 | 3 Tiles | 4+ | 5+ | 13 | 10 |
 
