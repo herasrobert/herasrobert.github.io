@@ -1,6 +1,6 @@
 # Changeling  - 9 pts
 
-|Movement | Accuracy | Defence | HP | Moral |
+|Movement | Accuracy | Defence | HP | Courage |
 | ------ | ------ | ------ | ------ | ------ |
 | 4 Tiles | 6+ | 5+ | 9 | 16 |
 
