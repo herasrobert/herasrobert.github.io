@@ -1,6 +1,6 @@
 # Viper  - 9 pts
 
-|Movement | Accuracy | Defence | HP | Moral |
+|Movement | Accuracy | Defence | HP | Courage |
 | ------ | ------ | ------ | ------ | ------ |
 | 4 Tiles | 4+ | 5+ | 10 | 12 |
 
