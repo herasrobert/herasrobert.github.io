@@ -5,6 +5,9 @@
 | ------ | ------ | ------ | ------ | ------ |
 | 3 Tiles | 4+ | 5+ | 13 | 10 |
 
+## Unit Details:
+- Druid: This unit belongs to the Druid faction.
+
 ## Actions
 - Dash
 - Call Lightning: 
