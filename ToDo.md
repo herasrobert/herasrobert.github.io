@@ -18,9 +18,10 @@ Unit Identifiers:
 - Heavy Weapon: 
 - Boss
 - Soldier
-- Fast
+- Swift Attacker
 - Elite
 - Leader
+- Support
 
 
 
