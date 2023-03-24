@@ -2,7 +2,16 @@ ToDo:
 - Add to any Flyers cannot capture objectives
 - For Heavy support, add that if the others contesting the objective have less health then this unit counts as having captured the objective
 - Courage: Change is to the unit goes to ground and can't move and their accuracy suffers by 1. The next time a unit suffers a Courage failure, they accuracy suffers by one more point.
+- 
+Unit that failed courage cannot move and must spend their next action to take a courage test to see if they regain their composure. A unit that has failed a courage tests cannot context an objective. A unit that has failed a courage test gains a +1 to cover.
 
+WEapon Profiles:
+- Light, medium, heavy
+- Rule for heavy support or ranks where they cannot be injured by light weapons?
+- HP the defense roll difficulty is reduced by 1 if the weapon profile making the attack is a light weapon. Making it easier for some units to defend against light weapons.
+- Flyer being attacked by a heavy weapon has defense difficulty made harder by 1?
+
+Objective Secured: This model counts as capturing an objective even if there are other units contesting the objective, unless another units has the objective secure rule as well.
 
 Hive:
 - HQ/Boss - Hive Lord
