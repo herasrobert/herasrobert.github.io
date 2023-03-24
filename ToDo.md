@@ -27,3 +27,32 @@ Druids:
 - Heavy Support - Pumpkin King
 - Flyer - Wyvern
 - Elite - Archers
+
+
+Grassland
+	10x
+Hills
+	10x
+Forest
+	5x -1 Cover
+	5x -1 Cover, -1 Movement
+	3x -2 Cover, -1 Movement
+	3x -2 Cover, -2 Movement
+Mountain
+	3x Elevation +1, -1 Movement
+	3x Elevation +2, -2 Movement
+Ruins
+	7x -3 Cover
+	6x -2 Cover
+Brush
+	10x -1 Cover
+Bog
+	5x - No cover, -1 Movement
+	5x - No cover, -2 movement		
+Miasma
+	8x - -3 Cover, -1 HP Per turn spent there
+Inpassible
+	10x - No cover, cannot move through	unless otherwise stated in the unit profile
+Lake
+	10x - No cover, -1 movement
+	
