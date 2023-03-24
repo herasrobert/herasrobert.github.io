@@ -95,13 +95,17 @@ The defending unit must succeed on a Defense Roll for each successful “injury�
 You do not benefit from cover while in melee combat unless otherwise stated in the defending unit’s profile.
 
 ### Courage
-A courage test must be taken after a unit loses health
+A courage test must be taken after a unit loses more than two HP.
 
-The Player who commands the unit must roll 2d6; rolling below the units current health counts as a success and the unit maintains its courage.
+The Player who commands the unit must roll 2d6; rolling below the units current HP counts as a success and the unit maintains its courage.
 
-If the 2d6 lands above the units current health, the unit has lost its courage and must spend its next movement moving in a straight line towards controlling players table edge.
+If the result of the 2d6 is below current health or Courage, the unit has lost its courage.
 
-A unit without courage that passed the table edge counts as having fled and is destroyed.
+A unit which has lost its Courage cannot move, their accuracy suffers by 1, and they gain a -1 Cover Roll.
+
+A unit can spend its action to attempt another Courage roll to regain its courage.
+
+A unit that has lost its Courage cannot contest an objective.
 
 ### Reinforcements
 Players are allowed to keep up to half their army in points cost as reinforcements. These units are not deployed during preparation and setup.
