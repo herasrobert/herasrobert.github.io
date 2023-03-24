@@ -11,7 +11,7 @@
     | Range | Power | Penetration | Attacks | Type |
     | ------ | ------ | ------ | ------ | ------ |
     | 12 Tiles | 2+ | -2 |  | Lightning, Spell |
-    - Each time an attack is made with this weapon, an unmodified hit roll of 6 scords an addition hit that will be rolled as part of the injury.
+    - Each time an attack is made with this weapon, an unmodified hit roll of 6 scores an addition hit that will be rolled as part of the injury.
 - Fireball:  
     | Range | Power | Penetration | Attacks | Type |
     | ------ | ------ | ------ | ------ | ------ |
