@@ -97,11 +97,9 @@ You do not benefit from cover while in melee combat unless otherwise stated in t
 ### Courage
 A courage test must be taken at the end of a players turn if a unit lost more than 3 HP this turn.
 
-The Player who commands the unit must roll 2d6; rolling below the units current HP counts as a success and the unit maintains its courage.
+The Player who commands the unit must roll 2d6; rolling below the units Courage counts as a success and the unit maintains its courage.
 
-If the result of the 2d6 is below current health or Courage, the unit has lost its courage.
-
-A unit which has lost its courage suffers an extra 1d6 HP.
+If the result is a failure, the unit has lost its courage and the unit suffers an extra 1d6 HP
 
 ### Reinforcements
 Players are allowed to keep up to half their army in points cost as reinforcements. These units are not deployed during preparation and setup.
