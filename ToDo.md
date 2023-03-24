@@ -3,16 +3,27 @@ ToDo:
 - For Heavy support, add that if the others contesting the objective have less health then this unit counts as having captured the objective
 - Remove Courage from Unit Profile
 
-Armor:
-- Light
-- Medium
-- Heavy
+Unit Identifiers:
+- Druid: This unit belongs to the Druid faction.
+- Demon: This unit belongs to the Demon faction.
+- Hive: This unit belongs to the Hive faction.
+- Flyer: This unit is considered a Flyer.
+- - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives.
+- - Flight Speed: This unit must move on its turn and it must move at least half its movement.
+- Light Armored: 
+- Medium Armored:
+- Heavily Armored: This unit gains a -1 to Defense if being attacked by a Light weapon.
+- Light Weapon:
+- Medium Weapon:
+- Heavy Weapon: 
+- Boss
+- Soldier
+- Fast
+- Elite
+- Leader
 
 
-Weapons:
-- Light
-- Medium
-- Heavy
+
 
 Light weapon on Heavy armor should be a -1. Heavy Weapon on light armor should be a +1
 
