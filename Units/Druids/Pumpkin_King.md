@@ -10,7 +10,7 @@
 
 ## Special Rules
 - Pumkin Barrage: The Pumpkin King can take the Exploding Pumpkins Action twice after moving; this ability cannot be used next turn
-- You can only take one Pumpkin King per game.
+- Unique: Your army can only contain one of this unit and you can only take one per game.
 
 ## Upgrades
 
