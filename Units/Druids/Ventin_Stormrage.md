@@ -4,6 +4,9 @@
 | ------ | ------ | ------ | ------ | 
 | 5 Tiles | 2+ | 3+ | 16 |
 
+## Unit Details:
+- Druid: This unit belongs to the Druid faction.
+
 ## Actions
 - Hungry Earth:
     | Range | Power | Penetration | Attacks | Type |
