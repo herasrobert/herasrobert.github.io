@@ -2,7 +2,7 @@
 
 |Movement | Accuracy | Defence | HP |
 | ------ | ------ | ------ | ------ |
-| x Tiles | 3+ | 4+ | 12 |
+| 4 Tiles | 3+ | 4+ | 12 |
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
