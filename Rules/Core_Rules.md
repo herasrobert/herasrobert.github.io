@@ -16,11 +16,12 @@
 - Once Player 2 finishes controlling their units, the round is considered over and the next round starts.
 
 ## Movement
-- Each unit can move a number of tiles equal to its movement speed unless a tile says it’s impassible terrain.
+- Each unit can move a number of tiles equal to its movement speed unless a tile says it’s impassible.
 - A unit can choose not to move and stay within its tile unless the units profile says otherwise.
+- A unit can take an Action before taking a Movement
 
 ## Action
-- Each unit that moves must take an action immediately after moving.
+- A Unit can choose to take an action before or after taking a Movement
 - Possible actions are listed on the units profile.
 
 ### Casting, Magic, and Ranged Attacks
