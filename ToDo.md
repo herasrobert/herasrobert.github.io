@@ -3,13 +3,54 @@ ToDo:
 - For Heavy support, add that if the others contesting the objective have less health then this unit counts as having captured the objective
 - Remove Courage from Unit Profile
 
-WEapon Profiles:
+Armor:
+- Light
+- Medium
+- Heavy
+
+
+Weapons:
+- Light
+- Medium
+- Heavy
+
+Light weapon on Heavy armor should be a -1. Heavy Weapon on light armor should be a +1
+
+Weapon Profiles:
 - Light, medium, heavy
 - Rule for heavy support or ranks where they cannot be injured by light weapons?
 - HP the defense roll difficulty is reduced by 1 if the weapon profile making the attack is a light weapon. Making it easier for some units to defend against light weapons.
 - Flyer being attacked by a heavy weapon has defense difficulty made harder by 1?
 
 Objective Secured: This model counts as capturing an objective even if there are other units contesting the objective, unless another units has the objective secure rule as well.
+
+----
+Points:
+
+100 pts
+
+1 HQ - 35
+
+2 Troops - 15 each
+
+1 HS, Flyer, or Elite - 35
+
+----
+
+Druids:
+- HQ/Boss
+- - Ventin Stormrage (v1.0 Done)
+- Troop
+- - Mages (v1.0 Done)
+- - Elementalists (v1.0 Done)
+- Fast Attacker
+- - Dire Wolves (v1.0 Done)
+- Heavy Support
+- - Pumpkin King (v1.0 Done)
+- Flyer
+- - Wyvern (v1.0 Done)
+- Elite
+- - Archers
 
 Hive:
 - HQ/Boss - Hive Lord
@@ -27,15 +68,7 @@ Demons:
 - Flyer - Erinthies
 - Elite - Corvix_Coraxi
 
-Druids:
-- HQ/Boss - Ventin Stormrage
-- Troop - Mages & Elementalists
-- Fast Attacker - Dire Wolves
-- Heavy Support - Pumpkin King
-- Flyer - Wyvern
-- Elite - Archers
-
-
+----
 Grassland
 	10x
 Hills
