@@ -4,6 +4,9 @@
 | ------ | ------ | ------ | ------ |
 | 6 Tiles | 2+ | 3+ | 19 |
 
+## Unit Details:
+- Druid: This unit belongs to the Druid faction.
+
 ## Actions
 - Exploding Pumpkins:
     | Range | Power | Penetration | Attacks | Type |
