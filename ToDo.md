@@ -41,11 +41,11 @@ Points:
 
 100 pts
 
-1 HQ - 35
+1 Leader - 35
 
-2 Troops - 15 each
+2 Soldiers - 15 each
 
-1 HS, Flyer, or Elite - 35
+1 Swift Attacke, Flyer, Support, or Elite - 35
 
 ----
 
