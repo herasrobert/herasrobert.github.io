@@ -1,3 +1,4 @@
+
 # Elementalist  - 15 pts
 
 |Movement | Accuracy | Defence | HP | Courage |
@@ -5,13 +6,19 @@
 | 3 Tiles | 4+ | 5+ | 13 | 10 |
 
 ## Actions
-* Dash
-* Call Lightning: Range 12 tiles, Power 2+, Penetration -2, Attack=HP 
-* * Each time an attack is made with this weapon, an unmodified hit roll of 6 scords an addition hit that will be rolled as part of the injury.
-* Fireball: Range 12 tiles, Power 4+, Penetration -1, Attack = 2 x Defending Unit's HP
+- Dash
+- Call Lightning: 
+    | Range | Power | Penetration | Attacks | Type |
+    | ------ | ------ | ------ | ------ | ------ |
+    | 12 Tiles | 2+ | -2 |  | Lightning, Spell |
+    - Each time an attack is made with this weapon, an unmodified hit roll of 6 scords an addition hit that will be rolled as part of the injury.
+- Fireball:  
+    | Range | Power | Penetration | Attacks | Type |
+    | ------ | ------ | ------ | ------ | ------ |
+    | 12 Tiles | 4+ | -1 | 8 | Fire, Spell |
 
 ## Special Rules
-- Elementalist Units in a Forest Terrain Tile have a +1 to Cover Rolls
+- Forests Are Homes: Elementalist Units in a Forest Tile have a +1 to Cover Rolls
 
 ## Upgrades
 
