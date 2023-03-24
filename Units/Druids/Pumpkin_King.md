@@ -1,11 +1,14 @@
-# Pumpkin King  - 19 pts
+# Pumpkin King  - 29 pts
 
-|Movement | Accuracy | Defence | HP | Courage |
-| ------ | ------ | ------ | ------ | ------ |
-| 6 Tiles | 2+ | 3+ | 19 | 12 |
+|Movement | Accuracy | Defence | HP |
+| ------ | ------ | ------ | ------ |
+| 6 Tiles | 2+ | 3+ | 19 |
 
 ## Actions
-- Exploding Pumpkins: Range 8 tiles, Power 3+, Penetration -3, Attack=2
+- Exploding Pumpkins:
+    | Range | Power | Penetration | Attacks | Type |
+    | ------ | ------ | ------ | ------ | ------ |
+    | 8 Tiles | 3+ | -3 | 2 | Arcane, Spell |
 - Sinister Aura: All enemy units within 15 tiles must take a Courage Test with a -d6 modifier
 
 ## Special Rules
