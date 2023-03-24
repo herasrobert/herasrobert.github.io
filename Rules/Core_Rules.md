@@ -99,7 +99,7 @@ A courage test must be taken at the end of a players turn if a unit lost more th
 
 The Player who commands the unit must roll 2d6; rolling below the units Courage counts as a success and the unit maintains its courage.
 
-If the result is a failure, the unit has lost its courage and the unit suffers an extra 1d6 HP
+If the result is a failure, the unit has lost its courage and the unit suffers an extra 1d6 HP.
 
 ### Reinforcements
 Players are allowed to keep up to half their army in points cost as reinforcements. These units are not deployed during preparation and setup.
