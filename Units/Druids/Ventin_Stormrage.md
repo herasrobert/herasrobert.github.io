@@ -7,7 +7,7 @@
 ## Actions
 
 ## Special Rules
-* Unique: Your army can only contain one of this unit.
+- Unique: Your army can only contain one of this unit and you can only take one per game.
 
 ## Upgrades
 
