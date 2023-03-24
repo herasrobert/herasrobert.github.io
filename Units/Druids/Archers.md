@@ -16,7 +16,7 @@
     | Range | Power | Penetration | Attacks | Type |
     | ------ | ------ | ------ | ------ | ------ |
     | 14 Tiles | 3+ | -1 | 3 | Heavy |
-    - Against a 'Heavily Armored' unit, the Penetration value is -3.    
+    - Against a 'Heavily Armored' unit, the Penetration value is -3. This unit cannot use this action next turn.
     
 ## Special Rules
 
