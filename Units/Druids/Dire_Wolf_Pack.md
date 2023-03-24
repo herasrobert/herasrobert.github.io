@@ -4,6 +4,9 @@
 | ------ | ------ | ------ | ------ | 
 | 5 Tiles | 3+ | 5+ | 18 |
 
+## Unit Details:
+- Druid: This unit belongs to the Druid faction.
+
 ## Actions
 - Dash
 - Melee Attack:
