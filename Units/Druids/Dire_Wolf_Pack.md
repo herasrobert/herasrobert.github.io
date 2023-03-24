@@ -1,12 +1,17 @@
 # Dire Wolf Pack - 15 pts
 
-|Movement | Accuracy | Defence | HP | Courage |
-| ------ | ------ | ------ | ------ | ------ |
-| 5 Tiles | 3+ | 5+ | 18 | 8 |
+| Movement | Accuracy | Defence | HP |
+| ------ | ------ | ------ | ------ | 
+| 5 Tiles | 3+ | 5+ | 18 |
 
 ## Actions
-* Dash
-* Melee: 4 tiles, Power 2+, Penetration -0, Attack 2*HP
+- Dash
+- Melee Attack:
+
+    | Range | Power | Penetration | Attacks | Type |
+    | ------ | ------ | ------ | ------ | ------ |
+    | 4 Tiles | 2+ | -0 | 2xHP | Medium |
+
 
 ## Special Rules
 - Pack Leader: Morale test of 2 result in the entire pack disbanding; remove the unit from the game
