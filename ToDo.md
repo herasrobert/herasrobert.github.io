@@ -1,9 +1,7 @@
 ToDo:
 - Add to any Flyers cannot capture objectives
 - For Heavy support, add that if the others contesting the objective have less health then this unit counts as having captured the objective
-- Courage: Change is to the unit goes to ground and can't move and their accuracy suffers by 1. The next time a unit suffers a Courage failure, they accuracy suffers by one more point.
-- 
-Unit that failed courage cannot move and must spend their next action to take a courage test to see if they regain their composure. A unit that has failed a courage tests cannot context an objective. A unit that has failed a courage test gains a +1 to cover.
+- Remove Courage from Unit Profile
 
 WEapon Profiles:
 - Light, medium, heavy
