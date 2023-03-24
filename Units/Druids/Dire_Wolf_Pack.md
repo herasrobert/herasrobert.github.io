@@ -18,4 +18,5 @@
 - Scent of Blood: If a Dire Wolf Pack moves or dashes in a straight line towards a unit that is not at full HP, they can move two extra tiles.
 
 ## Upgrades
-- Enchanted Fangs (8 pts) : Any to hit rolls of a 6 result in an extra to wound die to be rolled. 
+- Enchanted Fangs (8 pts) : Each time a melee attack is made, an unmodified hit roll of 6 scores an additional hit that will be rolled as part of the injury.
+- Metal Claws (6 pts): Melee attacks are made with a -2 Penetration value.
