@@ -4,6 +4,9 @@
 | ------ | ------ | ------ | ------ |
 | x Tiles | 3+ | 4+ | 12 |
 
+## Unit Details:
+- Druid: This unit belongs to the Druid faction.
+
 ## Actions
 - Volley:
     | Range | Power | Penetration | Attacks | Type |
