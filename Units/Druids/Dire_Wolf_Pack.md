@@ -20,3 +20,5 @@
 ## Upgrades
 - Enchanted Fangs (8 pts) : Each time a melee attack is made, an unmodified hit roll of 6 scores an additional hit that will be rolled as part of the injury.
 - Metal Claws (6 pts): Melee attacks are made with a -2 Penetration value.
+
+[https://cults3d.com/en/orders/52898158](https://cults3d.com/en/orders/52898158)
