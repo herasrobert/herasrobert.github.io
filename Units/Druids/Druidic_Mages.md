@@ -4,6 +4,9 @@
 | ------ | ------ | ------ | ------ |
 | 5 Tiles | 4+ | 3+ | 12 |
 
+## Unit Details:
+- Druid: This unit belongs to the Druid faction.
+
 ## Actions
 - Dash
 - Druidic Missile:
