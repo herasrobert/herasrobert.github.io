@@ -1,4 +1,7 @@
 ToDo:
+- Finish Units
+- Make circular unit markers and print them out
+- 
 - Orders from Above:
 - - A player can play one of five bonuses for the turn, they cannot play the same one for the rest of the game
 - For Heavy support, add that if the others contesting the objective have less health then this unit counts as having captured the objective
