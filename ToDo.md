@@ -3,7 +3,9 @@ ToDo:
 - For Heavy support, add that if the others contesting the objective have less health then this unit counts as having captured the objective
 - Remove Courage from Unit Profile
 
-Default Unit: 4+, 4+, 12hp - 4 atck per weapons
+Default Unit: 4+, 4+, 12hp
+
+Default Weapon: 4+, -0, 4 attacks
 
 Unit Identifiers:
 - Druid: This unit belongs to the Druid faction.
