@@ -8,6 +8,7 @@
 - Druid: This unit belongs to the Druid faction.
 
 ## Actions
+- Dash: Make another Movement
 - Volley:
     | Range | Power | Attacks | Weapon Type |
     | ------ |  ------ | ------ | ------ |
