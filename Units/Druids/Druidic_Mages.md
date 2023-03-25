@@ -6,6 +6,7 @@
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
+- Medium Armored: This unit gains a +1 to Defense Rolls if being attacked by a Light weapon.
 
 ## Actions
 - Dash: Make another Movement
