@@ -11,7 +11,7 @@
 - Volley:
     | Range | Power | Attacks | Weapon Type |
     | ------ |  ------ | ------ | ------ |
-    | 8 Tiles | -1 | 7 | Light |
+    | 8 Tiles | -1 | 2 x Current HP | Light |
     - Blot the Sun: This unit gains a +1 Accuracy for this attack.
 - Enchanted Shot:
     | Range | Power | Attacks | Weapon Type |
