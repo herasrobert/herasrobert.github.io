@@ -42,11 +42,11 @@ Once an attack is considered a hit, the defending unit may usually attempt to us
 
 Each unit has a Defense value within its profile and rolling at or above the defense value succeeds in defending against a hit.
 
-Some Attacks have a Penetration value which denotes a modifier to the Defense roll, usually a negative.
+Attacks have a Power value which denotes a modifier to the Defense roll, usually a negative.
 
-A Spell with Penetration -2 would mean the value of the die for a Defense roll if modifiers by -2. Player 2 rolling a 2 on the die would mean the Defense Roll result is actually a 4.
+A Spell with Power -2 would mean the value of the die for a Defense roll if modifiers by -2. Player 2 rolling a 2 on the die would mean the Defense Roll result is actually a 4.
 
-Example: The Mage Unit cast Fireball and has 2 hits. Of those two hits, both d6 were 2's so there are two injuries for the defending unit to save against. Player B then takes the two die and rolls a Defense Roll per injury. The Defending unit has a Defense of 2+, which means normally Player B would be able to succeed on a two or above to ignore the injury. However, Fireball has a +2 Penetration, which means Player B must roll at or above a 4 for each injury to save against it. 
+Example: The Mage Unit cast Fireball and has 2 hits. Of those two hits, both d6 were 2's so there are two injuries for the defending unit to save against. Player B then takes the two die and rolls a Defense Roll per injury. The Defending unit has a Defense of 2+, which means normally Player B would be able to succeed on a two or above to ignore the injury. However, Fireball has a +2 Power, which means Player B must roll at or above a 4 for each injury to save against it. 
 
 ### Using Cover
 
@@ -60,7 +60,7 @@ In order to succeed on a Cover Roll, your roll with any modifiers must be above 
 
 Note: you always take the highest cover value whether that be from terrain, Actions, Special Rules, or Upgrade.
 
-Example: Player 1 used their Mage Squad to cast Fireball and because of Fireballs +2 Penetration, the Defending unit unit must suceed on a 4+ to defend against the Fireball attack. However, between the Mage Squad and the Defending unit is a Forest Terrain Tile that grants a +3 Cover Bonus. This means the defending unit can elect to take a Cover Roll intead of a Defense Roll. The Cover Roll result to be beat is 6 - 3 = 3+.
+Example: Player 1 used their Mage Squad to cast Fireball and because of Fireballs +2 Power, the Defending unit unit must suceed on a 4+ to defend against the Fireball attack. However, between the Mage Squad and the Defending unit is a Forest Terrain Tile that grants a +3 Cover Bonus. This means the defending unit can elect to take a Cover Roll intead of a Defense Roll. The Cover Roll result to be beat is 6 - 3 = 3+.
 
 ### Losing Health
 Any d6 from a “injury” roll that is not Protected or saved by Cover counts as a one point loss against the units health.
