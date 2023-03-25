@@ -9,10 +9,10 @@
 
 ## Actions
 - Exploding Pumpkins:
-    | Range | Power | Penetration | Attacks | Type |
-    | ------ | ------ | ------ | ------ | ------ |
-    | 8 Tiles | 3+ | -3 | 2 | Arcane, Spell |
-- Sinister Aura: All enemy units within 15 tiles must take a Courage Test with a -d6 modifier
+    | Range | Power |  Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | 8 Tiles | -3 | 2 | Arcane, Spell |
+- Sinister Aura: All enemy units within 15 tiles must take a Courage Test with a -d6 modifier, rolled once by the owner of this unit.
 
 ## Special Rules
 - Pumkin Barrage: The Pumpkin King can take the Exploding Pumpkins Action twice after moving; this ability cannot be used next turn
