@@ -8,17 +8,17 @@
 - Druid: This unit belongs to the Druid faction.
 
 ## Actions
-- Dash
+- Dash: Make another Movement
 - Druidic Missile:
-    | Range | Power | Penetration | Attacks | Type |
-    | ------ | ------ | ------ | ------ | ------ |
-    | 6 Tiles | 4+ | -2 | 7 | Arcane, Spell |
+    | Range | Power | Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | 6 Tiles | -2 | Current HP | Arcane, Spell |
 
 - Stampede Rush:
-    | Range | Power | Penetration | Attacks | Type |
-    | ------ | ------ | ------ | ------ | ------ |
-    | 6 Tiles | 4+ | -2 | 7 | Melee |
-    - If the Defending Unit is 5 to 6 tiles away from the Druidic Mages, Stampede Rush has a Power of 3+.
+    | Range | Power |  Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | 6 Tiles | -2 | 2x Current HP | Melee |
+    - If the Defending Unit is 5 to 6 tiles away from the Druidic Mages, Stampede Rush has a Power of -3.
 
 ## Special Rules
 - Honor Among Druids: Druidic Mages always pass Courage Rolls. 
