@@ -11,23 +11,23 @@
 - Hungry Earth:
     | Range | Power | Penetration | Attacks | Type |
     | ------ | ------ | ------ | ------ | ------ |
-    | 6 Tiles | 3+ | -3 | 2 x Current HP | Arcane, Spell |
+    | 6 Tiles | 3+ | -2 | 6 | Arcane, Spell |
     
     - This ability cannot be used next turn.
     
-    - A unit that suffers an injury against this ability cannot move next turn.
+    - A unit that suffers an undefended hit against this ability cannot move next turn.
     
 - Arcane Beam:
     | Range | Power | Penetration | Attacks | Type |
     | ------ | ------ | ------ | ------ | ------ |
-    | 8 Tiles | 3+ | -3 | 5 | Arcane, Spell |
+    | 8 Tiles | 3+ | -1 | 5 | Arcane, Spell |
     
     - A unit that suffers an injury against this ability loses another 1d6 health
 
 - Melee Attack:
     | Range | Power | Penetration | Attacks | Type |
     | ------ | ------ | ------ | ------ | ------ |
-    | 3 Tiles | 2+ | -3 | 4 | Medium, Melee |
+    | 3 Tiles | 2+ | -2 | 4 | Medium, Melee |
     
     - A unit that suffers an injury against this ability loses another 1d6 health
     
