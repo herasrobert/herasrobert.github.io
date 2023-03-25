@@ -7,21 +7,21 @@
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
 - Flyer: This unit is considered a Flyer.
-- - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives.
+- - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives, however it does benefit from a +1 to Cover Rolls.
 - - Flight Speed: This unit must move on its turn and it must move at least half its movement.
-- (REDO) Heavily Armored: This unit gains a -1 to Defense if being attacked by a Light weapon.
+- Heavily Armored: This unit gains a +2 to Defense Rolls if being attacked by a Light weapon.
 
 ## Actions
 - Evasion: The Wyvern takes evasive maneauvers and gains a +2 to Cover Rolls until the next time it moves.
 - Fly: The Wyvern takes flight and is not longer considered Grounded.
 - Tail Spikes:
-    | Range | Power | Penetration | Attacks | Type |
-    | ------ | ------ | ------ | ------ | ------ |
-    | 3 Tiles | 4+ | -3 | 5 | Medium |    
+    | Range | Power  | Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | 3 Tiles | -3 | 5 | Medium |    
 - Sweep: The Wyvern makes an attack against a unit on a tile the Wyvern flew over.
-    | Range | Power | Penetration | Attacks | Type |
-    | ------ | ------ | ------ | ------ | ------ |
-    | - | 3+ | -1 | 1d6+2 | Medium |
+    | Range | Power | Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | - | -1 | 1d6+2 | Medium |
 
 ## Special Rules
 - Airborne: The Wyvern does not benefit from Cover for terrain tiles and cannot contest objectives.
