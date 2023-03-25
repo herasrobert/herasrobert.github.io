@@ -1,24 +1,24 @@
 
 # Elementalist  - 15 pts
 
-|Movement | Accuracy | Defence | HP | Courage |
-| ------ | ------ | ------ | ------ | ------ |
-| 3 Tiles | 4+ | 5+ | 13 | 10 |
+|Movement | Accuracy | Defence | HP |
+| ------ | ------ | ------ | ------ |
+| 3 Tiles | 4+ | 5+ | 13 |
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
 
 ## Actions
-- Dash
+- Dash: Make another Movement.
 - Call Lightning: 
-    | Range | Power | Penetration | Attacks | Type |
-    | ------ | ------ | ------ | ------ | ------ |
-    | 12 Tiles | 2+ | -2 |  | Lightning, Spell |
+    | Range | Power |  Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | 12 Tiles | -2 | 5 | Lightning, Spell |
     - Each time an attack is made with this weapon, an unmodified hit roll of 6 scores an additional hit that will be rolled as part of the injury.
 - Fireball:  
-    | Range | Power | Penetration | Attacks | Type |
-    | ------ | ------ | ------ | ------ | ------ |
-    | 12 Tiles | 4+ | -1 | 8 | Fire, Spell |
+    | Range | Power |  | Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | 12 Tiles | -1 | 8 | Fire, Spell |
 
 ## Special Rules
 - Forests Are Homes: Elementalist Units in a Forest Tile have a +1 to Cover Rolls
