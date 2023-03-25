@@ -6,6 +6,7 @@
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
+- Heavily Armored: This unit gains a +2 to Defense Rolls if being attacked by a Light weapon.
 
 ## Actions
 - Exploding Pumpkins:
