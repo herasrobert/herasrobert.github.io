@@ -33,27 +33,18 @@ The Attacker then draws a straight line from the closest corner of the tile of A
 
 The number of dice to use will be listed on the spell action within the unit profile under 'Attack' 
 
-In order to “Hit” your target, you roll a number of d6 equal to the Attack value and those that land at or above the attackers "Accurancy” value are considered hits.
+In order to “Hit” your target, you roll a number of d6 equal to the Attack value of the weapon and those that land at or above the attackers "Accurancy” value are considered hits.
 
 Example: Player 1 is using a Mage Unit to cast a Fireball. The Mage Units Accuracy is 3+ and the Fireball spell is 4 Attacks. This means Player 1 would roll 4d6 and any that land at or above a three are considered to have hit the defending unit.
 
-### Injuring
-Each "Hit" roll is followed by injury rolls to determine how many of those hits actually injure the unit.
-
-For every die that counts as a hit, roll it and if you land at or above the spells "Power" value it counts as an injury to the defending unit.
-
-Example: The Mage Unit in the above example rolled 4d6 to hit. Assuming two of those four attack die landed above a three, Player 1 would then roll the two successes again to determine injury towards the defending unit. Fireball has a Power value of 2+. This means that if any of the two die rolled are a two or above, then the defending unit counts as risking two injuries.
-
 ### Defense Rolls
-Once an attack is considered to risk injury, the defending unit may usually attempt to use their defense to ignore the injury; denoting their natural toughness or magical protections against attacks.
+Once an attack is considered a hit, the defending unit may usually attempt to use their defense to ignore the injury; denoting their natural toughness or magical protections against attacks.
 
-When applicable, a Defense Roll is taken against any injury to ignore it.
+Each unit has a Defense value within its profile and rolling at or above the defense value succeeds in defending against a hit.
 
-Each unit has a Defense value within its profile and rolling at or above the defense value succeeds in defending against the roll.
+Some Attacks have a Penetration value which denotes a modifier to the Defense roll, usually a negative.
 
-Some Spells and Attacks have a Penetration value, this denotes a change in the difficulty of the Defense roll.
-
-A Spell with Penetration +2 would mean the Defense roll must be at or above the Defense + Penetration (2) value.
+A Spell with Penetration -2 would mean the value of the die for a Defense roll if modifiers by -2. Player 2 rolling a 2 on the die would mean the Defense Roll result is actually a 4.
 
 Example: The Mage Unit cast Fireball and has 2 hits. Of those two hits, both d6 were 2's so there are two injuries for the defending unit to save against. Player B then takes the two die and rolls a Defense Roll per injury. The Defending unit has a Defense of 2+, which means normally Player B would be able to succeed on a two or above to ignore the injury. However, Fireball has a +2 Penetration, which means Player B must roll at or above a 4 for each injury to save against it. 
 
@@ -61,11 +52,11 @@ Example: The Mage Unit cast Fireball and has 2 hits. Of those two hits, both d6 
 
 The defending unit may choose to take a Cover Roll instead of a Protection Roll; sometimes the Cover Roll is better.
 
-Any unit can take a cover save of 6+ unless otherwise stated in the unit profile.
-
 Each terrain tile has a Cover Bonus attribute. Draw a straight from the closest corner of the tile of Attacking unit to the closest corner of the tile of the defending unit.
 
-Cover is calculated by subtracting the highest cover bonus of any tile in the line from 6. The player must then roll above that value.
+Cover is calculated by adding the highest cover bonus of any tile in the line to your die roll.
+
+In order to succeed on a Cover Roll, your roll with any modifiers must be above a 6.
 
 Note: you always take the highest cover value whether that be from terrain, Actions, Special Rules, or Upgrade.
 
