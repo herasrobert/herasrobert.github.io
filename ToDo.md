@@ -12,11 +12,11 @@ Unit Identifiers:
 - Demon: This unit belongs to the Demon faction.
 - Hive: This unit belongs to the Hive faction.
 - Flyer: This unit is considered a Flyer.
-- - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives.
+- - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives, however it does benefit from a +1 to Cover Rolls.
 - - Flight Speed: This unit must move on its turn and it must move at least half its movement.
-- Light Armored: 
-- Medium Armored:
-- Heavily Armored: This unit gains a -1 to Defense if being attacked by a Light weapon.
+- Light Armored:
+- Medium Armored: This unit gains a +1 to Defense Rolls if being attacked by a Light weapon.
+- Heavily Armored: This unit gains a +2 to Defense Rolls if being attacked by a Light weapon.
 - Light Weapon:
 - Medium Weapon:
 - Heavy Weapon: 
