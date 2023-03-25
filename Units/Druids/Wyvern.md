@@ -9,7 +9,7 @@
 - Flyer: This unit is considered a Flyer.
 - - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives.
 - - Flight Speed: This unit must move on its turn and it must move at least half its movement.
-- Heavily Armored: This unit gains a -1 to Defense if being attacked by a Light weapon.
+- (REDO) Heavily Armored: This unit gains a -1 to Defense if being attacked by a Light weapon.
 
 ## Actions
 - Evasion: The Wyvern takes evasive maneauvers and gains a +2 to Cover Rolls until the next time it moves.
