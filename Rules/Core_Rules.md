@@ -1,7 +1,9 @@
 # General Rules
 
 ## Preperation and Setup
+- Players agree on a maximum number of points to play and will select units from their faction up to the agreed amount of points with each unit costing the points shown on the unit profile.- 
 - Each player should have three objective tiles in hand and an equal number of terrain tiles.
+- - Scale and shape of the map is determined by the players placing the tiles.
 - Each player then takes turns placing a tile.
 - Objective tiles cannot be placed within two tiles of the board edge or within five tiles of another objective.
 - Each player then selects a table edge to count as their edge, usually on opposite sides
@@ -10,17 +12,20 @@
 # Playing the Game
 
 ## Standard Play
-- The game is split into five rounds.
-- During the first round Player 1 will control each of their units and take a move and/or action.
+- The game is split into a number of rounds agreed upon by the players.
+- During the first round Player 1 will control each of their units one time and take a move and/or action; in either order.
 - Once Player 1 finishes controlling all their units, Player 2 will control their units.
 - Once Player 2 finishes controlling their units, the round is considered over and the next round starts.
 
 ## Movement
 - Each unit can move a number of tiles equal to its movement speed unless a tile says it’s impassible.
+- A unit cannot move onto or through a non-existant tile.
 - A unit can choose not to move and stay within its tile unless the units profile says otherwise.
 - A unit can take an Action before taking a Movement
 
 ## Action
+- A unit
+- A unit can elect not to take an action.
 - A Unit can choose to take an action before or after taking a Movement
 - Possible actions are listed on the units profile.
 
