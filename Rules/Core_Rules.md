@@ -17,30 +17,27 @@
 - Once Player 1 finishes controlling all their units, Player 2 will control their units.
 - Once Player 2 finishes controlling their units, the round is considered over and the next round starts.
 
-## Movement
-- Each unit can move a number of tiles equal to its movement speed unless a tile says it’s impassible.
-- A unit cannot move onto or through a non-existant tile.
+## Movement and Action
+- Each unit can elect to move and/or take an action in either order; actions are listed on the unit profile.
+- - A unit can also elect not to move or not to take an action, unless otherwise stated in the unit profile that they must move or take an action.
+- Each unit can move a number of tiles equal to its movement speed but a unit cannot move onto or through a non-existant tile.
+- Some tiles are impassible and will be denoted on the tile.
 - A unit can choose not to move and stay within its tile unless the units profile says otherwise.
-- A unit can take an Action before taking a Movement
-
-## Action
-- A unit
-- A unit can elect not to take an action.
-- A Unit can choose to take an action before or after taking a Movement
-- Possible actions are listed on the units profile.
 
 ### Casting, Magic, and Ranged Attacks
 Such available actions are to make a ranged attack or cast a spell.
 
-In order to make a range attack, ensure that the defending unit is within range of the attacking unit; range is listed within the attacks profile.
+In order to make a range attack, ensure that the defending unit is within range of the attacking unit; range is listed within the attacks profile and is a measurement of hexes.
 
-The Attacker then draws a straight line from the closest corner of the tile of Attacking unit to the closest corner of the tile of the defending unit.
+The Attacker then draws a straight line from the closest corner of the tile of the Attacking unit to the closest corner of the tile of the defending unit. The direction of model is facing does not matter.
+
+The Attacking unit must use all their available attacks against the defending unit and cannot split their attacks against other enemy units.
 
 The number of dice to use will be listed on the spell action within the unit profile under 'Attack' 
 
 In order to “Hit” your target, you roll a number of d6 equal to the Attack value of the weapon and those that land at or above the attackers "Accurancy” value are considered hits.
 
-Example: Player 1 is using a Mage Unit to cast a Fireball. The Mage Units Accuracy is 3+ and the Fireball spell is 4 Attacks. This means Player 1 would roll 4d6 and any that land at or above a three are considered to have hit the defending unit.
+### Injuring - Removed
 
 ### Defense Rolls
 Once an attack is considered a hit, the defending unit may usually attempt to use their defense to ignore the injury; denoting their natural toughness or magical protections against attacks.
@@ -55,7 +52,7 @@ Example: The Mage Unit cast Fireball and has 2 hits. Of those two hits, both d6 
 
 ### Using Cover
 
-The defending unit may choose to take a Cover Roll instead of a Protection Roll; sometimes the Cover Roll is better.
+The defending unit may choose to take a Cover Roll instead of a Defense Roll; sometimes the Cover Roll is better.
 
 Each terrain tile has a Cover Bonus attribute. Draw a straight from the closest corner of the tile of Attacking unit to the closest corner of the tile of the defending unit.
 
@@ -63,12 +60,13 @@ Cover is calculated by adding the highest cover bonus of any tile in the line to
 
 In order to succeed on a Cover Roll, your roll with any modifiers must be above a 6.
 
-Note: you always take the highest cover value whether that be from terrain, Actions, Special Rules, or Upgrade.
+You always take the highest cover value whether that be from terrain, Actions, Special Rules, or Upgrade.
 
-Example: Player 1 used their Mage Squad to cast Fireball and because of Fireballs +2 Power, the Defending unit unit must suceed on a 4+ to defend against the Fireball attack. However, between the Mage Squad and the Defending unit is a Forest Terrain Tile that grants a +3 Cover Bonus. This means the defending unit can elect to take a Cover Roll intead of a Defense Roll. The Cover Roll result to be beat is 6 - 3 = 3+.
+Cover is not impacted by the Power of the attacking units weapon.
+
 
 ### Losing Health
-Any d6 from a “injury” roll that is not Protected or saved by Cover counts as a one point loss against the units health.
+Any d6 from a hit roll that is not Defended or saved by Cover counts as a one point loss against the units health.
 
 Subtract the number of dice from the units Health pool, keep track using paper, counters, or dice themselves.
 
@@ -116,13 +114,11 @@ Most terrain will provide some sort of cover, as denoted by the Cover value on t
 
 Some terrain counts as impassible and will be denoted on the tile; meaning you cannot place a unit or traverse the tile unless otherwise stated in the units profile.
 
-Terrain tiles with a Cover of -6 count as blocking sight; the Defending unit will have a 0 on their Cover Roll which is an automatic success.
-
-Some terrain adds an elevation to units that are on the tile. This adds a modifier to the accuracy of teh attacking unit if the defending unit is at a lower elevation.
+(Pending) Some terrain adds an elevation to units that are on the tile. This adds a modifier to the accuracy of the attacking unit if the defending unit is at a lower elevation. Feedback to resolve: “Using Cover” mentioned drawing straight lines from tile to tile. How does that work with elevation? Can you shoot over things? What if a unit is on elevation and the tile to tile touches cover?  The “Using Cover” rules seems to work on a 2D context.
 
 Tile Types: Grassland, Hills, Forest, Mountain, Ruins, Bushes, Bog, Miasma, Impassible, Lake
 
 ### Capturing Objectives
-Any unit within one tile of an objective is considered to be contesting the objective.
+Any unit within one adjacent tile of an objective is considered to be contesting the objective.
 
 The player with the most units contesting an objective count as capturing the objective and earns two points at the end of each round.
