@@ -4,6 +4,10 @@
 | ------ | ------ | ------ | ------ |
 | 6 Tiles | 3+ | 3+ | 22 |
 
+## Unit Details:
+- Demon: This unit belongs to the Demon faction.
+
+
 ## Actions
 - Claw Attack: The night demon makes a melee attack with its claws, dealing 1d6+3 damage.
 - Shadow Step: The night demon can teleport up to 6" away, ignoring terrain and models. This ability can be used once per turn.
