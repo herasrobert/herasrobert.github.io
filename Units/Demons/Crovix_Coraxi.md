@@ -7,8 +7,8 @@
 ## Unit Details:
 - Demon: This unit belongs to the Demon faction.
 - Flyer: This unit is considered a Flyer.
-- - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives, however it does benefit from a +1 to Cover Rolls.
-- - Flight Speed: This unit must move on its turn and it must move at least half its movement.
+    - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives, however it does benefit from a +1 to Cover Rolls.
+    - Flight Speed: This unit must move on its turn and it must move at least half its movement.
 
 ## Actions
 - Take Flight: This unit can choose to fly, doing so means it counts as a Flyer and it's movement becomes 11 Tiles.
