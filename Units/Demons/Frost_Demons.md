@@ -4,6 +4,10 @@
 | ------ | ------ | ------ | ------ | ------ |
 | x Tiles | x+ | x+ | x | x |
 
+## Unit Details:
+- Demon: This unit belongs to the Demon faction.
+
+
 ## Actions
 
 ## Special Rules
