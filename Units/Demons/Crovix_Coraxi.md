@@ -1,37 +1,35 @@
-# Crovix Coraxi  - X pts
+# Crovix Coraxi  - 33 pts
 
-|Movement | Accuracy | Defence | HP | Courage |
-| ------ | ------ | ------ | ------ | ------ |
-| x Tiles | x+ | x+ | x | x |
+|Movement | Accuracy | Defence | HP |
+| ------ | ------ | ------ | ------ |
+| 6 Tiles | 3+ | 2+ | 21 |
+
+## Unit Details:
+- Demon: This unit belongs to the Demon faction.
+- Flyer: This unit is considered a Flyer.
+- - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives, however it does benefit from a +1 to Cover Rolls.
+- - Flight Speed: This unit must move on its turn and it must move at least half its movement.
 
 ## Actions
-- Summons other Demons
+- Take Flight: This unit can choose to fly, doing so means it counts as a Flyer and it's movement becomes 11 Tiles.
+- Command: This unit can give commands to other friendly units 7 tiles, allowing them to immediately take action.
+- Psychic Harrowing:
+    | Range | Power | Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | 8 Tiles | -3 | 7 | Psychic, Spell |
+- Sweep: This unit makes an attack against a unit on a tile it flew over.
+    | Range | Power | Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | - | -1 | 1d6+2 | Medium |
 
 ## Special Rules
+- Inspiring Presence: Friendly units within 13 tiles range gain +1 to their Courage Roll.
 
 ## Upgrades
+- Marksmanship 10pts: This unit gains +1 to its ranged value.
+- Tactical Genius 19 pts: This unit gains an additional Action per turn.
 
 [https://cults3d.com/en/3d-model/game/corvus-corax-the-demon-prince](https://cults3d.com/en/3d-model/game/corvus-corax-the-demon-prince)
 
-Stats:
 
-Movement: 6
-Melee: 3
-Ranged: 2
-Defense: 3
-Toughness: 3
-Morale: 4
-Size: Medium
-Actions:
 
-Move: Move up to your movement value.
-Ranged attack: Use your ranged value to make a ranged attack against a target within range.
-Command: This unit can give commands to other friendly units within range, allowing them to take an additional action or gain bonuses to their stats.
-Special Abilities:
-
-Inspiring Presence: Friendly units within range gain +1 to their morale value.
-Strategic Mind: This unit gains +1 to its ranged value and can reroll failed command rolls.
-Upgrades:
-
-Marksmanship: This unit gains +1 to its ranged value.
-Tactical Genius: This unit gains an additional command per turn.
