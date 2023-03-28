@@ -4,6 +4,10 @@
 | ------ | ------ | ------ | ------ | ------ |
 | 2 Tiles | 6+ | 5+ | 32 | 15 |
 
+## Unit Details:
+- Demon: This unit belongs to the Demon faction.
+
+
 ## Actions
 
 ## Special Rules
