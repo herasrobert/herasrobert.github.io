@@ -1,61 +1,25 @@
 # Erinthies  - 14 pts
 
-|Movement | Accuracy | Defence | HP | Courage |
-| ------ | ------ | ------ | ------ | ------ |
-| x Tiles | x+ | x+ | x | x |
+|Movement | Accuracy | Defence | HP |
+| ------ | ------ | ------ | ------ |
+| 13 Tiles | 4+ | 4+ | 14 |
+
+## Unit Details:
+- Demon: This unit belongs to the Demon faction.
+- Flyer: This unit is considered a Flyer.
+- - Airborne: This unit does not benefit from Cover for terrain tiles and cannot contest objectives, however it does benefit from a +1 to Cover Rolls.
+- - Flight Speed: This unit must move on its turn and it must move at least half its movement.
 
 ## Actions
+- Melee Attack:
+    | Range | Power | Attacks | Type |
+    | ------ | ------ | ------ | ------ |
+    | 8 Tiles | -2 | 2 x Current HP | Medium |
+- Possession: A unit within 4 tiles must make a Courage Roll. On a failure, the Attacking player can take an action as that unit against any other unit.
 
 ## Special Rules
 
 ## Upgrades
-
+- Elite Training: This unit gains +1 to its Accurace in and defense values.
+- 
 [https://cults3d.com/en/3d-model/art/demon-hunter-world-of-warcraft-white_werewolf_tavern](https://cults3d.com/en/3d-model/art/demon-hunter-world-of-warcraft-white_werewolf_tavern)
-
-Stats:
-
-Movement: 6
-Melee: 4
-Ranged: 0
-Defense: 4
-Toughness: 4
-Morale: 3
-Size: Medium
-Actions:
-
-Move: Move up to your movement value.
-Charge: Move up to twice your movement and then make a melee attack.
-Melee attack: Use your melee value to make an attack against a target within range.
-Special Abilities:
-
-Unstoppable: This unit cannot be knocked prone or otherwise incapacitated by enemy attacks or abilities.
-Elite Training: This unit gains +1 to its melee and defense values.
-Upgrades:
-
-Brutal Strikes: This unit gains +1 to its melee value.
-Iron Will: This unit gains +1 to its morale value.
-
-----
-
-Stats:
-
-Movement: 12
-Melee: 4
-Ranged: 0
-Defense: 2
-Toughness: 4
-Morale: 3
-Size: Medium
-Actions:
-
-Flight: This unit can move over other models and terrain as if they were not there.
-Charge: Move up to twice your movement and then make a melee attack.
-Melee attack: Use your melee value to make an attack against a target within range.
-Special Abilities:
-
-Dive Bomb: When this unit charges from a height, it deals extra damage.
-Flyby: After making a melee attack, this unit can move up to half its movement away from the target without provoking an opportunity attack.
-Upgrades:
-
-Winged Terror: This unit's morale value is increased by 1.
-Sharp Claws: This unit's melee value is increased by 1.
