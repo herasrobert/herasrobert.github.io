@@ -1,3 +1,7 @@
+6 tiles, 6 atk, 6 def, and 12 hp
+
+Courage to when you’ve taken 6 damage and you lose 2d12 hp
+
 ToDo:
 - Finish Units
 - Make circular unit markers and print them out
