@@ -6,6 +6,8 @@ Change Accuracy to Attack, Defence to Defend, Power to Strength
 
 Table top should be 48x48 or 72x48. there should be 36 tile long and 24 tiles across which is 72x48 if tiles are each 2 inches
 
+Moving an average of 6 tiles per unit would mean it would take them 6 turns to get acorrs the table if 36 inches long or 4 turns to get across on short-ways; half that if dashing.
+
 ToDo:
 - Finish Units
 - Make circular unit markers and print them out
