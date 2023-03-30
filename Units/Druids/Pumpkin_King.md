@@ -1,8 +1,8 @@
 # Pumpkin King  - 29 pts
 
-|Movement | Accuracy | Defence | HP |
+|Movement | Attack | Defend | HP |
 | ------ | ------ | ------ | ------ |
-| 6 Tiles | 2+ | 3+ | 19 |
+| 6 Tiles | 6+ | 6+ | 12 |
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
@@ -10,7 +10,7 @@
 
 ## Actions
 - Exploding Pumpkins:
-    | Range | Power |  Attacks | Type |
+    | Range | Strength |  Attacks | Type |
     | ------ | ------ | ------ | ------ |
     | 8 Tiles | -3 | 2 | Arcane, Spell |
 - Sinister Aura: All enemy units within 15 tiles must take a Courage Test with a -d6 modifier, rolled once by the owner of this unit.
