@@ -1,15 +1,15 @@
 # Ventin Stormrage  - 32 pts
 
-| Movement | Accuracy | Defence | HP |
+| Movement | Attack | Defend | HP |
 | ------ | ------ | ------ | ------ | 
-| 5 Tiles | 2+ | 3+ | 16 |
+| 6 Tiles | 6+ | 6+ | 12 |
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
 
 ## Actions
 - Hungry Earth:
-    | Range | Power |  Attacks | Type |
+    | Range | Strength |  Attacks | Type |
     | ------ | ------ |  ------ | ------ |
     | 6 Tiles | -2 | 6 | Arcane, Spell |
     
@@ -18,14 +18,14 @@
     - A unit that suffers an undefended hit against this ability cannot move next turn.
     
 - Arcane Beam:
-    | Range | Power |  Attacks | Type |
+    | Range | Strength |  Attacks | Type |
     | ------ | ------ |  ------ | ------ |
     | 8 Tiles | -1 | 5 | Arcane, Spell |
     
     - A unit that suffers an injury against this ability loses another 1d6 health
 
 - Melee Attack:
-    | Range | Power |  Attacks | Type |
+    | Range | Strength |  Attacks | Type |
     | ------ | ------  | ------ | ------ |
     | 3 Tiles | -2 | 4 | Medium, Melee |
     
