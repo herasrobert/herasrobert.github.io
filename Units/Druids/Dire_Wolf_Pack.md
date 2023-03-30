@@ -1,8 +1,8 @@
 # Dire Wolf Pack - 15 pts
 
-| Movement | Attack | Defend | HP |
+| Movement | Accuracy | Defence | HP |
 | ------ | ------ | ------ | ------ | 
-| 6 Tiles | 6+ | 6+ | 12 |
+| 12 Tiles | 6+ | 6+ | 12 |
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
@@ -11,7 +11,6 @@
 ## Actions
 - Dash: Make another Movement
 - Melee Attack:
-
     | Range | Strength | Attacks | Type |
     | ------ | ------ | ------ | ------ |
     | 4 Tiles | -2 | 2 x Current HP | Medium |
