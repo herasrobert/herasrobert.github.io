@@ -2,6 +2,8 @@
 
 Courage to when you’ve taken 6 damage and you lose 2d12 hp
 
+Change Accuracy to Attack, Defence to Defend, Power to Strength
+
 ToDo:
 - Finish Units
 - Make circular unit markers and print them out
