@@ -35,7 +35,7 @@ The Attacking unit must use all their available attacks against the defending un
 
 The number of dice to use will be listed on the spell action within the unit profile under 'Attack' 
 
-In order to “Hit” your target, you roll a number of d6 equal to the Attack value of the weapon and those that land at or above the attackers "Accurancy” value are considered hits.
+In order to “Hit” your target, you roll a number of d12 equal to the Attack value of the weapon and those that land at or above the attackers "Accurancy” value are considered hits.
 
 ### Injuring - Removed
 
@@ -48,7 +48,7 @@ Attacks have a Power value which denotes a modifier to the Defense roll, usually
 
 A Spell with Power -2 would mean the value of the die for a Defense roll if modifiers by -2. Player 2 rolling a 2 on the die would mean the Defense Roll result is actually a 4.
 
-Example: The Mage Unit cast Fireball and has 2 hits. Of those two hits, both d6 were 2's so there are two injuries for the defending unit to save against. Player B then takes the two die and rolls a Defense Roll per injury. The Defending unit has a Defense of 2+, which means normally Player B would be able to succeed on a two or above to ignore the injury. However, Fireball has a +2 Power, which means Player B must roll at or above a 4 for each injury to save against it. 
+Example: The Mage Unit cast Fireball and has 2 hits. Of those two hits, both d12 were 2's so there are two injuries for the defending unit to save against. Player B then takes the two die and rolls a Defense Roll per injury. The Defending unit has a Defense of 2+, which means normally Player B would be able to succeed on a two or above to ignore the injury. However, Fireball has a +2 Power, which means Player B must roll at or above a 4 for each injury to save against it. 
 
 ### Using Cover
 
@@ -66,7 +66,7 @@ Cover is not impacted by the Power of the attacking units weapon.
 
 
 ### Losing Health
-Any d6 from a hit roll that is not Defended or saved by Cover counts as a one point loss against the units health.
+Any d12 from a hit roll that is not Defended or saved by Cover counts as a one point loss against the units health.
 
 Subtract the number of dice from the units Health pool, keep track using paper, counters, or dice themselves.
 
@@ -92,9 +92,9 @@ You do not benefit from cover while in melee combat unless otherwise stated in t
 ### Courage
 A courage test must be taken at the end of a players turn if a unit lost more than 3 HP this turn.
 
-The Player who commands the unit must roll 2d6; rolling below the units Courage counts as a success and the unit maintains its courage.
+The Player who commands the unit must roll 2d12; rolling below the units Courage counts as a success and the unit maintains its courage.
 
-If the result is a failure, the unit has lost its courage and the unit suffers an extra 1d6 HP.
+If the result is a failure, the unit has lost its courage and the unit suffers an extra 1d12 HP.
 
 ### Reinforcements
 Players are allowed to keep up to half their army in points cost as reinforcements. These units are not deployed during preparation and setup.
