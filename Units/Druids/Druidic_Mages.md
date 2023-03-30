@@ -1,8 +1,8 @@
 # Druidic Mages  - 13 pts
 
-|Movement | Attack | Defend | HP |
+|Movement | Accuracy | Defence | HP |
 | ------ | ------ | ------ | ------ |
-| 6 Tiles | 6+ | 6+ | 12 |
+| 6 Tiles | 5+ | 5+ | 12 |
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
