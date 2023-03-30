@@ -2,7 +2,7 @@
 
 Courage to when you’ve taken 6 damage and you lose 2d12 hp
 
-Change Accuracy to Attack, Defence to Defend, Power to Strength
+Change Power to Strength
 
 Table top should be 48x48 or 72x48. there should be 36 tile long and 24 tiles across which is 72x48 if tiles are each 2 inches
 
