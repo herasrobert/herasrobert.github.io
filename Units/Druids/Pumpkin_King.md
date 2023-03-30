@@ -1,6 +1,6 @@
 # Pumpkin King  - 29 pts
 
-|Movement | Attack | Defend | HP |
+|Movement | Accuracy | Defence | HP |
 | ------ | ------ | ------ | ------ |
 | 6 Tiles | 6+ | 6+ | 12 |
 
