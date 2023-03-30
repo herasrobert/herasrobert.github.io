@@ -1,6 +1,6 @@
 # Archers  - 24 pts
 
-|Movement | Attack | Defend | HP |
+|Movement | Accuracy | Defence | HP |
 | ------ | ------ | ------ | ------ |
 | 6 Tiles | 6+ | 6+ | 12 |
 
@@ -17,7 +17,7 @@
 - Enchanted Shot:
     | Range | Strength | Attacks | Weapon Type |
     | ------ | ------ | ------ | ------ |
-    | 14 Tiles | -1 | 3 | Heavy |
+    | 14 Tiles | -3 |  Current HP | Heavy |
     - Against a 'Heavily Armored' unit, the Power value is -3 for Defense Rolls; this unit cannot use this action next turn.
     
 ## Special Rules
