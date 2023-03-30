@@ -1,8 +1,8 @@
 # Wyvern  - 33 pts
 
-|Movement | Accuracy | Defence | HP |
+|Movement | Attack | Defend | HP |
 | ------ | ------ | ------ | ------ |
-| 16 Tiles | 3+ | 3+ | 24 |
+| 6 Tiles | 6+ | 6+ | 12 |
 
 ## Unit Details:
 - Druid: This unit belongs to the Druid faction.
@@ -15,11 +15,11 @@
 - Evasion: The Wyvern takes evasive maneauvers and gains a +2 to Cover Rolls until the next time it moves.
 - Fly: The Wyvern takes flight and is not longer considered Grounded.
 - Tail Spikes:
-    | Range | Power  | Attacks | Type |
+    | Range | Strength  | Attacks | Type |
     | ------ | ------ | ------ | ------ |
     | 3 Tiles | -3 | 5 | Medium |    
 - Sweep: The Wyvern makes an attack against a unit on a tile the Wyvern flew over.
-    | Range | Power | Attacks | Type |
+    | Range | Strength | Attacks | Type |
     | ------ | ------ | ------ | ------ |
     | - | -1 | 1d6+2 | Medium |
 
